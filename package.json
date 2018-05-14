@@ -10,11 +10,15 @@
     "author": "Abel Ludeño blanco\u001b[D\u001b[D\u001b[D\u001b[D\u001b[B",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.16.3",
-        "mongoose": "^5.1.0",
-        "esversion": "6",
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.18.2",
         "es6": "true",
-        "jshint esversion": "6"
+        "esversion": "6",
+        "express": "^4.16.3",
+        "jshint esversion": "6",
+        "jsonwebtoken": "^8.2.1",
+        "mongoose": "^5.1.0",
+        "mongoose-unique-validator": "^2.0.1"
     },
     "devDependencies": {
         "nodemon": "^1.17.4"
